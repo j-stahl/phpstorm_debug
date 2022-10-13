@@ -17,4 +17,5 @@ PHPstorm does not apply namespaces and classes in subfolders correctly
 8. check again youtracktest.php
 
 use OpenAPI\Client\Configuration;    --> OK
+
 use OpenAPI\Client\Api\DefaultApi;   --> NotOK
