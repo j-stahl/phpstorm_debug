@@ -1,0 +1,5 @@
+Here are some files and folder from other mini projects.
+
+!! composer.json is a valid copy from releasetool
+to use it just copy it in place
+

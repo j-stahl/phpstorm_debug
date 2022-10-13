@@ -1,0 +1,7 @@
+www/vendor
+logs
+/cache
+/notes
+/config/projects.conf
+/commits/*
+www/lib/YouTrackApi
